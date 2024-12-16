@@ -1,0 +1,10 @@
+NV12045 Nguyen Tuan Vo 2001 5.6
+NV13210 Truong Thi Hoa 2000 7.3
+NV13452 Tran Ngoc Ninh 1989 4.5
+NV14432 Nguyen Van Vo 1990 2.3
+NV15332 Le Thi Lieu 1989 7.0
+NV22032 Van Thi Hoa 1999 3.4
+NV22052 Vo Ngoc Hoa 1999 5.5
+NV22140 Nguyen Van Vu 2005 4.4
+NV22145 Nguyen Thi Vo 2001 3.4
+NV30432 Le Hung Vo 1990 5.5
